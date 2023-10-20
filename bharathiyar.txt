@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mahakavi Subramania Bharati</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f5f5f5;
+        }
+
+        header {
+            background-color: #333;
+            color: #fff;
+            padding: 1rem;
+            text-align: center;
+        }
+
+        .container {
+            max-width: 960px;
+            margin: 2rem auto;
+            padding: 2rem;
+            background-color: #fff;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        .quote {
+            font-style: italic;
+            text-align: center;
+            margin-top: 1rem;
+        }
+
+        footer {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 1rem;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+
+<body>
+    <header>
+        <h1>Mahakavi Subramania Bharati</h1>
+    </header>
+
+    <div class="container">
+        <img src="bharathiyar.jpg" alt="Mahakavi Subramania Bharati">
+        <p>Mahakavi Subramania Bharati (11 December 1882 – 11 September 1921) was a Tamil poet, writer, and independence activist. He was a pioneer of modern Tamil poetry and is considered one of the greatest Tamil literary figures of all time.</p>
+        
+        <div class="quote">
+            <blockquote>
+                "Arise, Awake, and Stop not till the Goal is Reached."
+            </blockquote>
+        </div>
+    </div>
+
+    <footer>
+        <p>&copy; Year Bharathiyar Foundation. All rights reserved.</p>
+    </footer>
+</body>
+
+</html>
